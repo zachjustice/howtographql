@@ -44,7 +44,7 @@ At this point, the schema definition already has grown to be quite large. Let's 
 
 Create a new file inside the `src` directory and call it `schema.graphql`:
 
-```bash(path="../hackernews-node/src)
+```bash(path="../hackernews-node)
 touch src/schema.graphql
 ```
 
